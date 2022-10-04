@@ -1,5 +1,5 @@
 # Projetos do Zero
-## Repositório apenas para listar todos os projetos que desenvolvi do zero, sem o acompanhamento de aulas/tutoriais.
+## Repositório para listar todos os projetos que desenvolvi do zero, sem o acompanhamento de aulas/tutoriais.
 
 ### - [Tela de Login Simples](https://github.com/jeansilvatech/tela-login)
 ![image](https://user-images.githubusercontent.com/23384348/187769102-9bfcc152-68d9-4f8a-9bbe-41a0eeff1af1.png)
