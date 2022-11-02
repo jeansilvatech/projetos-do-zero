@@ -26,5 +26,8 @@
 ![image](https://user-images.githubusercontent.com/23384348/194944351-20cd1a53-3018-4d59-895d-2f91da3b8aa3.png)
 
 ### - [Login](https://github.com/jeansilvatech/login)
-![image](https://user-images.githubusercontent.com/23384348/196007430-0fd4f18e-45ad-445c-a730-c71c2abe1476.png)
+![image](https://user-images.githubusercontent.com/23384348/199557326-db9269a7-054b-45b3-b09a-8980a43a5d44.png)
+
+### - [Black Panther](https://github.com/jeansilvatech/black-panther)
+![image](https://user-images.githubusercontent.com/23384348/199556623-6183a3d1-59b9-4e1e-812b-f3338945e66a.png)
 
