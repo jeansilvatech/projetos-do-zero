@@ -31,3 +31,5 @@
 ### - [Black Panther](https://github.com/jeansilvatech/black-panther)
 ![image](https://user-images.githubusercontent.com/23384348/199556623-6183a3d1-59b9-4e1e-812b-f3338945e66a.png)
 
+### - [Copa do Mundo](https://copadomundojs.netlify.app)
+![image](https://user-images.githubusercontent.com/23384348/208125600-9cb794f5-d750-48ba-b277-b6177d55098d.png)
