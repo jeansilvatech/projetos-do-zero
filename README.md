@@ -10,7 +10,7 @@
 ### - [Card Profile](https://github.com/jeansilvatech/card-profile)
 ![image](https://user-images.githubusercontent.com/23384348/193819952-a00b2af4-44b5-4ef2-a819-5c1aece5d53b.png)
 
-### - [Player de Música CSS](https://github.com/jeansilvatech/player-music-css)
+### - [Player de Música - CSS](https://github.com/jeansilvatech/player-music-css)
 ![image](https://user-images.githubusercontent.com/23384348/191749341-baaa3d38-72d9-4d65-aed7-52402944bf2e.png)
 
 ### - [Disney Plus](https://github.com/jeansilvatech/disneyplus) (replicado)
