@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/23384348/193422221-3a80f353-fd53-44f8-afd6-4b8bc2db8be5.png)
 
 ### - [Pokémon](https://github.com/jeansilvatech/pokemon)
-![image](https://user-images.githubusercontent.com/23384348/193817346-6a2592f8-b22d-4ae2-842b-54a33a16870a.png)
+![image](https://github.com/jeansilvatech/projetos-do-zero/assets/23384348/b388bb16-1cbd-4fa4-a8b6-9346490865a5)
 
 ### - [Rolex Submariner](https://github.com/jeansilvatech/rolex-submariner) (replicado)
 ![image](https://user-images.githubusercontent.com/23384348/194944351-20cd1a53-3018-4d59-895d-2f91da3b8aa3.png)
@@ -38,5 +38,5 @@
 ![image](https://user-images.githubusercontent.com/23384348/209187920-3d353dc6-ebfd-4457-ac3d-fd821f5ac196.png)
 
 ### - [Brasileirão 2023](https://github.com/jeansilvatech/brasileirao-2023)
-![image](https://user-images.githubusercontent.com/23384348/224322464-9d381272-2061-41d0-adc8-e2d12fcf56ec.png)
+![image](https://user-images.githubusercontent.com/23384348/236681327-564ac3b5-7ce0-4292-8e97-0a700b084be1.png)
 
