@@ -31,7 +31,7 @@
 * ### [Black Panther](https://github.com/jeansilvatech/black-panther)
 ![image](https://user-images.githubusercontent.com/23384348/199556623-6183a3d1-59b9-4e1e-812b-f3338945e66a.png)
 
-* ### [Copa do Mundo 2022](https://copadomundojs.netlify.app)
+* ### [Copa do Mundo 2022](https://github.com/jeansilvatech/copa-do-mundo-2022)
 ![image](https://user-images.githubusercontent.com/23384348/224029073-5198839b-e043-48e8-9638-f7a1d0c9f423.png)
 
 * ### [Portfólio - React](https://github.com/jeansilvatech/portfolio-react)
@@ -40,5 +40,8 @@
  * ### [Brasileirão 2023](https://github.com/jeansilvatech/brasileirao-2023)
 ![image](https://user-images.githubusercontent.com/23384348/236681327-564ac3b5-7ce0-4292-8e97-0a700b084be1.png)
 
- * ### [App Clima](https://app-previsaodotempo.netlify.app)
-![image](https://github.com/jeansilvatech/app-clima/assets/23384348/d1bd45c6-f0eb-4cce-9d26-3e5d04420b7e)
+ * ### [App Clima](https://github.com/jeansilvatech/app-clima)
+![image](https://github.com/jeansilvatech/projetos-do-zero/assets/23384348/c558957c-d6ed-4b31-9297-a246c8aeb383)
+
+* ### [Harry Potter - Characters](https://github.com/jeansilvatech/hp-characters)
+ ![image](https://github.com/jeansilvatech/projetos-do-zero/assets/23384348/6b645a53-c0a6-410f-a0ca-e7017157e475)
