@@ -1,5 +1,5 @@
 # Projetos do Zero
-### Repositório para listar todos os projetos que desenvolvi/repliquei do zero, sem o acompanhamento de aulas/tutoriais.
+### Repositório para listar todos os projetos que desenvolvi/repliquei do zero, sem o acompanhamento de aulas/tutoriais, com objetivo de adquirir habilidades e demonstrar minha evolução.
 
 * ### [Tela de Login Simples](https://github.com/jeansilvatech/tela-login)
 ![image](https://user-images.githubusercontent.com/23384348/187769102-9bfcc152-68d9-4f8a-9bbe-41a0eeff1af1.png)
@@ -45,3 +45,11 @@
 
 * ### [Harry Potter - Characters](https://github.com/jeansilvatech/hp-characters)
  ![image](https://github.com/jeansilvatech/projetos-do-zero/assets/23384348/6b645a53-c0a6-410f-a0ca-e7017157e475)
+ 
+ * ### [Projetos Figma + Dev](https://github.com/jeansilvatech/figma-projects)
+ 1. Login
+    ![image](https://github.com/jeansilvatech/projetos-do-zero/assets/23384348/bf8e8671-8bc5-4c2f-bda6-6dfeae56afb5)
+ 2. Nike - Air Jordan
+     ![image](https://github.com/jeansilvatech/projetos-do-zero/assets/23384348/7fc4808c-ddf6-4b2a-b6ac-211e53830a09)
+
+
