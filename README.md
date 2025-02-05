@@ -57,6 +57,7 @@
 
 * ### [JSMovie](https://jsmovie.vercel.app/)
  ![image](https://github.com/user-attachments/assets/210a0cb8-15b0-4d96-82d9-f3511ff4057a)
+ ![image](https://github.com/user-attachments/assets/a0f723cf-4217-4bf9-99e6-bc84ba6738b5)
 
 * ### [Continental Cups](https://continental-cups.vercel.app/)
 ![image](https://github.com/user-attachments/assets/dfb677e0-03df-4062-81b3-ee1d6eb76314)
