@@ -52,4 +52,19 @@
  2. Nike - Air Jordan
      ![image](https://github.com/jeansilvatech/projetos-do-zero/assets/23384348/7fc4808c-ddf6-4b2a-b6ac-211e53830a09)
 
+* ### [Brasileirão 2024](https://github.com/jeansilvatech/brasileirao-2024)
+ ![image](https://github.com/user-attachments/assets/433c2903-2725-4f52-94a7-62c2f71634d0)
+
+* ### [JSMovie](https://jsmovie.vercel.app/)
+ ![image](https://github.com/user-attachments/assets/210a0cb8-15b0-4d96-82d9-f3511ff4057a)
+
+* ### [Continental Cups](https://continental-cups.vercel.app/)
+![image](https://github.com/user-attachments/assets/dfb677e0-03df-4062-81b3-ee1d6eb76314)
+
+* ### [Novo Portfolio](https://jeansilvatech.vercel.app)
+![image](https://github.com/user-attachments/assets/10a6f3a2-3bf6-470a-9e1e-6c030cda4b82)
+
+  
+ 
+
 
