@@ -62,6 +62,9 @@
 * ### [Continental Cups](https://continental-cups.vercel.app/)
 ![image](https://github.com/user-attachments/assets/dfb677e0-03df-4062-81b3-ee1d6eb76314)
 
+* ### [Brasileirão 2025](https://github.com/jeansilvatech/brasileirao-2025)
+<img width="1599" height="779" alt="image" src="https://github.com/user-attachments/assets/516c5449-5c1c-49a6-9f89-85e9b05b8fc1" />
+
 * ### [Novo Portfolio](https://jeansilvatech.vercel.app)
 ![image](https://github.com/user-attachments/assets/10a6f3a2-3bf6-470a-9e1e-6c030cda4b82)
 
